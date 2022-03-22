@@ -11,7 +11,9 @@
 * Todo tipo hereda directa o indirectamente del tipo System.Object.
 * El CTS define tipos de valor y referencia.
 
-
+#### Tipos de datos
+* Las variables **escalares** son constantes o variables que contienen un dato atomico y unidemensional.
+* Las variables **no escalares** son arrays y objetos, que pueden tener almacenados mas de un valor.
 
 #### Valores predeterminados (atributos de clase)
 * Enteros - 0
