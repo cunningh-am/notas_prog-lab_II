@@ -6,9 +6,30 @@ namespace clase_23_3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("{0,10}{1,-10}{2}", 10, 15, 23);
-            Console.WriteLine("{0,10:#,###.00}{1,10}", 10.476, 15.355);
+            // Ejercicio - Parte 1
 
+            /*
+            Sello.mensaje = "Hola mundo";
+            Console.WriteLine(Sello.Imprimir());
+            Sello.Borrar();
+            Console.WriteLine(Sello.Imprimir());
+            */
+
+            // Ejercicio - Parte 2
+
+            /*
+            Sello.mensaje = "Hola mundo C#";
+            Sello.color = ConsoleColor.Green;
+            Sello.ImprimirEnColor();
+            */
+
+            // Ejercicio - Parte 3 y 4
+
+            Sello.mensaje = "Hola mundo";
+            Sello.color = ConsoleColor.Green;
+            Sello.ImprimirEnColor();
+
+            Sello.Imprimir();
         }
     }
 }
