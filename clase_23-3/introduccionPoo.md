@@ -54,15 +54,11 @@ Es una abstraccion de un objeto. Defino comportamientos y atributos comunes a lo
 ```
 public class Auto
 {
-  public Single velocidad;
-  public static Byte cantidadRuedas;
-  public static void TocarBocina() 
+  public static int velocidad;
+
+  public static void TocarBocina();
   {
-    Console.Write("PiPi!");
-  }
-  public void Acelerar(Single velocidad) 
-  {
-    
+    Console.WriteLine("PiPi!");
   }
 }
 ```
