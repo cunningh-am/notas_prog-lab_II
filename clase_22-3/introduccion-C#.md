@@ -57,6 +57,24 @@ class HolaMundo {
 * Representa la entrada, salida y errores de Streams para aplicaciones de consola.
 * Es miembo del NameSpace System.
 
+#### Formato de salida de texto
+
+`{N [,M][:Formato]}`
+
+* **N:** Numero del parametro, empezando por cero.
+* **M:** Ancho usado para mostrar el parametro, el cual se rellena de espacios. Si M es negativo, se justifica a la izquierda, y si es positivo, a la derecha.
+* **Formato:** Cadena que indica el ormato extra a usar con ese parametro.
+
+```
+Console.WriteLine("{0,10}{1,-10}{2}", 10, 15, 23);
+// Output:
+//           1015          23
+Console.WriteLine("{0,10:#,###.00}{1,10}", 10.476, 15.355);
+// Output:
+//           10.48          15.355
+```
+[Documentacion Microsoft - Formatos compuestos](https://docs.microsoft.com/es-es/dotnet/standard/base-types/composite-formatting)
+
 ### Codigo de la clase
 ```
 using System;
