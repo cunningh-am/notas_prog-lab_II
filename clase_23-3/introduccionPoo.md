@@ -37,46 +37,19 @@ Es una abstraccion de un objeto. Defino comportamientos y atributos comunes a lo
 }
 ```
 
-* **modificador:** Determina la accesibilidad que tendras sobre ella otras clases.
+* **modificador:** Determina la accesibilidad que tendran sobre ella otras clases.  
 
-   * **public:** Accesible desde cualquier proyecto.
-   * **private:** Accesor por defecto.
-   * **abstract:** Indica que la clase no podra instanciarse.
-   * **internal:** Accesible en todo el proyecto.
-   * **sealed:** Indica que la clase no podra heredar.
+
+   | Modificador | Descripcion |
+   |:-----------|:-----------|
+   | `public`    | Codigo accesible para todas las clases                                    |
+   | `private`   | Codigo accesible dentro de la misma clase                                 |
+   | `protected` | Codigo accesible dentro de la misma clase o en una clase heredada de esta |
+   |  `internal` | Codigo accesible por todo el proyecto                                     |
 
 * **class:** Palabra reservada del lenguaje que indica que el codigo a continuacion es una clase.
 
 * **Identificador:** Nombre de la clase. Siempre comienza con mayuscula y es un sustantivo.
-
-### Atributos
-
-```
-[modificador] tipo identificador
-```
-
-**modificador:**
-  * **private(*)**: Los miembros de la misma clase
-  * **protected:** Miembros de la misma clase y clases hijas
-  * **internal:** 
-  * **internal protected**
-  * **public**
-
-
-### Metodos
-
-Funciones dentro de una clase
-
-```
-[modificador] retorno Identificador ([args]) 
-{
-  // sentencias
-}
-```
-
-**Identificador:** verbo y primera letra en mayuscula.
-
-## Ejemplo de clase
 
 ```
 public class Auto
