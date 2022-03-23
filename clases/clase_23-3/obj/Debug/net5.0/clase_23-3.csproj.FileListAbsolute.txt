@@ -1,0 +1,16 @@
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\clases\clase_23-3\bin\Debug\net5.0\clase_23-3.exe
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\clases\clase_23-3\bin\Debug\net5.0\clase_23-3.deps.json
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\clases\clase_23-3\bin\Debug\net5.0\clase_23-3.runtimeconfig.json
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\clases\clase_23-3\bin\Debug\net5.0\clase_23-3.runtimeconfig.dev.json
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\clases\clase_23-3\bin\Debug\net5.0\clase_23-3.dll
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\clases\clase_23-3\bin\Debug\net5.0\ref\clase_23-3.dll
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\clases\clase_23-3\bin\Debug\net5.0\clase_23-3.pdb
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\clases\clase_23-3\obj\Debug\net5.0\clase_23-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\clases\clase_23-3\obj\Debug\net5.0\clase_23-3.AssemblyInfoInputs.cache
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\clases\clase_23-3\obj\Debug\net5.0\clase_23-3.AssemblyInfo.cs
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\clases\clase_23-3\obj\Debug\net5.0\clase_23-3.csproj.CoreCompileInputs.cache
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\clases\clase_23-3\obj\Debug\net5.0\clase_23-3.dll
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\clases\clase_23-3\obj\Debug\net5.0\ref\clase_23-3.dll
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\clases\clase_23-3\obj\Debug\net5.0\clase_23-3.pdb
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\clases\clase_23-3\obj\Debug\net5.0\clase_23-3.genruntimeconfig.cache
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\clases\clase_23-3\obj\Debug\net5.0\clase_23-3.csproj.AssemblyReference.cache
