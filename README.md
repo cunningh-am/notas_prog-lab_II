@@ -1,4 +1,5 @@
-# Notas Programación II y Laboratorio II 🚀
+# Programación II y Laboratorio II 🚀
+> ### *Notas, archivos y ejercicios*
 
 Repositorio dónde subiré los **archivos** y **anotaciones** de cada clase 📝  
 
