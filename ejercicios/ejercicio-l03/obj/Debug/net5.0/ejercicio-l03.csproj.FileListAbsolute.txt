@@ -1,0 +1,16 @@
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\ejercicio-l03\bin\Debug\net5.0\ejercicio-l03.exe
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\ejercicio-l03\bin\Debug\net5.0\ejercicio-l03.deps.json
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\ejercicio-l03\bin\Debug\net5.0\ejercicio-l03.runtimeconfig.json
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\ejercicio-l03\bin\Debug\net5.0\ejercicio-l03.runtimeconfig.dev.json
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\ejercicio-l03\bin\Debug\net5.0\ejercicio-l03.dll
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\ejercicio-l03\bin\Debug\net5.0\ref\ejercicio-l03.dll
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\ejercicio-l03\bin\Debug\net5.0\ejercicio-l03.pdb
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\ejercicio-l03\obj\Debug\net5.0\ejercicio-l03.csproj.AssemblyReference.cache
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\ejercicio-l03\obj\Debug\net5.0\ejercicio-l03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\ejercicio-l03\obj\Debug\net5.0\ejercicio-l03.AssemblyInfoInputs.cache
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\ejercicio-l03\obj\Debug\net5.0\ejercicio-l03.AssemblyInfo.cs
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\ejercicio-l03\obj\Debug\net5.0\ejercicio-l03.csproj.CoreCompileInputs.cache
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\ejercicio-l03\obj\Debug\net5.0\ejercicio-l03.dll
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\ejercicio-l03\obj\Debug\net5.0\ref\ejercicio-l03.dll
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\ejercicio-l03\obj\Debug\net5.0\ejercicio-l03.pdb
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\ejercicio-l03\obj\Debug\net5.0\ejercicio-l03.genruntimeconfig.cache
