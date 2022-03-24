@@ -62,3 +62,9 @@ public class Auto
   }
 }
 ```
+
+### Codigo de la clase
+
+[Program.cs (Main)](https://github.com/valentinbegnis/notas_prog-lab_II/blob/main/clases/clase_23-3/Program.cs)  
+
+[Sello.cs (Clase)](https://github.com/valentinbegnis/notas_prog-lab_II/blob/main/clases/clase_23-3/Sello.cs)
