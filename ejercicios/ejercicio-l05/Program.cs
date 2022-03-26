@@ -13,7 +13,36 @@ namespace ejercicio_l05
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int n;
+            bool check;
+
+            do
+            {
+                Console.Write("Ingrese un numero: ");
+                check = int.TryParse(Console.ReadLine(), out n);
+            } while (!check);
+
+            Console.WriteLine("\nCentros numericos del 1 al {0}:", n);
+
+            for (int i = 1; i <= n; i++)
+            {
+                int sumaAnteriores = 0;
+                for (int j = 1; j < i; j++)
+                {
+                    sumaAnteriores += j;
+                }
+                int sumaPosteriores = 0;
+                int k = i + 1;
+                while (sumaPosteriores < sumaAnteriores)
+                {
+                    sumaPosteriores += k;
+                    k++; 
+                }
+                if (sumaAnteriores == sumaPosteriores)
+                {
+                    Console.WriteLine(i);
+                }
+            }
         }
     }
 }
