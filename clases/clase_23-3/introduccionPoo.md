@@ -16,18 +16,18 @@ Define el alcance y la visibilidad de un miembro de una clase. Se usan **modific
 
 ### 3. Herencia  
 
-Establece una relacion padre-hijo entre dos clases, de tal forma que el hijo herede las propiedades y metodos del padre. La herencia es simple.
+Establece una relacion padre-hijo entre dos clases, de tal forma que el hijo herede las propiedades y metodos del padre.
 
 ### 4. Polimorfismo  
 
-Van a existir metodos pertenecientes a una clase padre que al
+La definicion del metodo reside en la clase padre. Su implementacion, reside en la clase hija.
 
 ## Clases
 
 Es una abstraccion de un objeto. Defino comportamientos y atributos comunes a los objetos que se instanciaran de la misma.
 
 <div align="center">
- <img src="https://www.campusmvp.es/recursos/image.axd?picture=/2019/4T/poo-clase-objetos.png"/>
+ <img width="487" height="400" src="https://www.campusmvp.es/recursos/image.axd?picture=/2019/4T/poo-clase-objetos.png"/>
 </div>
  
 ## Creando una clase
@@ -36,22 +36,36 @@ Es una abstraccion de un objeto. Defino comportamientos y atributos comunes a lo
 [modificador] class Identificador 
 {
   // miembros: atributos y metodos
+  
+  [modificador] tipo identificador // atributo
+  
+  [modificador] retorno Identificador([args]) // metodo
+  {
+   // Sentencias
+  }
 }
 ```
+[comment]: <>    (| Modificador | Descripcion |)
+[comment]: <>    (|:-----------|:-----------|)
+[comment]: <>    (| `public`     | Accesible dentro del mismo proyecto  |)
+[comment]: <>    (| `private`    | Accesible dentro de la misma clase   |)
+[comment]: <>    (| `protected`  | Accesible dentro de la misma clase o en una clase derivada |)
+[comment]: <>    (|  `internal ` | Accesible por codigo dentro de la misma compilacion |   )
 
-* **modificador:** Determina la accesibilidad que tendran sobre ella otras clases.  
+## Modificadores
+Un modificador determina la accesibilidad que tendra sobre un elemento otras clases.  
+   
+| **Ubicacion**                | `public` | `protected internal`  | `protected` | `internal` | `private protected` | `private` |
+|:----------               |:--------:|:---------------------:|:-----------:|:----------:|:-------------------:|:---------:|
+| Dentro de la misma clase | ✔ | ✔  | ✔  |  ✔   | ✔  | ✔  |
+| Clase derivada (mismo proyecto) | ✔  | ✔  | ✔  | ✔  | ✔  | ❌  |
+| Clase no derivada (mismo proyecto)  | ✔  | ✔  | ❌  | ✔  | ❌  | ❌  |
+| Clase derivada (proyecto distinto) | ✔ | ✔  | ✔  | ❌  | ❌  | ❌  |
+| Clase no derivada (proyecto distinto) | ✔  | ❌  | ❌  | ❌  | ❌  | ❌  |
 
+> Para ver ejemplos de uso de cada modificador: [code-maze.com](https://code-maze.com/csharp-access-modifiers/)
 
-   | Modificador | Descripcion |
-   |:-----------|:-----------|
-   | `public`    | Codigo accesible para todas las clases                                    |
-   | `private`   | Codigo accesible dentro de la misma clase                                 |
-   | `protected` | Codigo accesible dentro de la misma clase o en una clase heredada de esta |
-   |  `internal` | Codigo accesible por todo el proyecto                                     |
-
-* **class:** Palabra reservada del lenguaje que indica que el codigo a continuacion es una clase.
-
-* **Identificador:** Nombre de la clase. Siempre comienza con mayuscula y es un sustantivo.
+## Ejemplo basico de una clase:
 
 ```
 public class Auto
