@@ -3,7 +3,8 @@
 
 [Pagina de la materia](https://codeutnfra.github.io/programacion_2_laboratorio_2_apuntes/)
 
-> C# es un lenguaje derivado de C, la sintaxis es similar. Este lenguaje esta pensado para resolver problemas mediante la aplicacion del paradigma de la programacion orientada a objetos.
+C# es un **lenguaje** de programacion **multiproposito** y de **tipado estatico**. Utiliza principalmente el paradigma de la **programacion orientada a objetos**. 
+En cuanto a la administracion de la memoria, C# se apoya en el tiempo de ejecucion para realizar la administracion de memoria automatica. El ***CLR (Common Language Runtime)*** tiene un ***Garbage Collector*** que ejecuta como parte del programa, que libera la memoria de los objetos que dejan de estar referenciados.
 
 ### Primer programa - "Hello World!"
 
@@ -15,6 +16,10 @@ namespace primerPrograma
         static void Main(string[] args)
         {
             System.Console.WriteLine("Hello World!");
+            /* 
+            Llamada al metodo WriteLine que se encuentra
+            en la clase Console, definida en el namespace System
+            */
         }
     }
 }
