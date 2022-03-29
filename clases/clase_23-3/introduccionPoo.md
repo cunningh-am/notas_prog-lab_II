@@ -26,8 +26,10 @@ Van a existir metodos pertenecientes a una clase padre que al
 
 Es una abstraccion de un objeto. Defino comportamientos y atributos comunes a los objetos que se instanciaran de la misma.
 
-![Ejemplo de Clase](https://www.campusmvp.es/recursos/image.axd?picture=/2019/4T/poo-clase-objetos.png)
-
+<div align="center">
+ <img src="https://www.campusmvp.es/recursos/image.axd?picture=/2019/4T/poo-clase-objetos.png"/>
+</div>
+ 
 ## Creando una clase
 
 ```
