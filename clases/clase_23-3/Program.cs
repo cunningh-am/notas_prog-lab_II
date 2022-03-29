@@ -30,6 +30,8 @@ namespace clase_23_3
             Sello.ImprimirEnColor();
 
             Sello.Imprimir();
+            Sello.Borrar();
+            Sello.ImprimirEnColor();
         }
     }
 }

@@ -30,16 +30,33 @@ namespace clase_23_3
         }
         private static string ArmarFormatoMensaje()
         {
-            string mensajeConFormato;
+            string mensajeConFormato = "";
             string asteriscos = "";
 
-            for (int i = 0; i < Sello.mensaje.Length + 2; i++)
+            if (TryParse(Sello.mensaje, out string texto))
             {
-                asteriscos += "*";
+                for (int i = 0; i < texto.Length + 2; i++)
+                {
+                    asteriscos += "*";
+                }
+
+                mensajeConFormato = asteriscos + "\n*" + texto + "*\n" + asteriscos;
             }
 
-            mensajeConFormato = asteriscos + "\n*" + Sello.mensaje + "*\n" + asteriscos;
             return mensajeConFormato;
+        }
+        private static bool TryParse(string entrada, out string salida)
+        {
+            bool retorno = false;
+            salida = "";
+
+            if (entrada.Length > 0)
+            {
+                salida = entrada;
+                retorno = true;
+            }
+
+            return retorno;
         }
     }
 }
