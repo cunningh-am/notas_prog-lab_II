@@ -93,3 +93,8 @@ public class Persona
 }
 ```
 
+### Codigo de la clase
+
+[Program.cs (Main)](https://github.com/valentinbegnis/notas_prog-lab_II/blob/main/clases/clase_29-3/Program.cs)  
+[MiClase.cs (Clase)](https://github.com/valentinbegnis/notas_prog-lab_II/blob/main/clases/clase_29-3/MiClase.cs)
+
