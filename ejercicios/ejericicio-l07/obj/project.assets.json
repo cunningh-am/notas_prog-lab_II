@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\begni\\OneDrive\\Escritorio\\personal\\UTN\\2do Cuatrimestre\\prog-lab-II\\ejercicios\\ejericicio-l07\\ejericicio-l07.csproj",
-      "projectName": "ejericicio-l07",
-      "projectPath": "C:\\Users\\begni\\OneDrive\\Escritorio\\personal\\UTN\\2do Cuatrimestre\\prog-lab-II\\ejercicios\\ejericicio-l07\\ejericicio-l07.csproj",
+      "projectUniqueName": "C:\\Users\\begni\\OneDrive\\Escritorio\\personal\\UTN\\2do Cuatrimestre\\prog-lab-II\\ejercicios\\ejericicio-l07\\ejercicio-l07.csproj",
+      "projectName": "ejercicio-l07",
+      "projectPath": "C:\\Users\\begni\\OneDrive\\Escritorio\\personal\\UTN\\2do Cuatrimestre\\prog-lab-II\\ejercicios\\ejericicio-l07\\ejercicio-l07.csproj",
       "packagesPath": "C:\\Users\\begni\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\begni\\OneDrive\\Escritorio\\personal\\UTN\\2do Cuatrimestre\\prog-lab-II\\ejercicios\\ejericicio-l07\\obj\\",
       "projectStyle": "PackageReference",
