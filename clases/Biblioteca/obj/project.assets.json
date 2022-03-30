@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
-      "clase_30-3_biblioteca/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/clase_30-3_biblioteca.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/clase_30-3_biblioteca.dll": {}
-        }
-      }
-    }
+    "net5.0": {}
   },
-  "libraries": {
-    "clase_30-3_biblioteca/1.0.0": {
-      "type": "project",
-      "path": "../Biblioteca/clase_30-3_biblioteca.csproj",
-      "msbuildProject": "../Biblioteca/clase_30-3_biblioteca.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0": [
-      "clase_30-3_biblioteca >= 1.0.0"
-    ]
+    "net5.0": []
   },
   "packageFolders": {
     "C:\\Users\\begni\\.nuget\\packages\\": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\begni\\OneDrive\\Escritorio\\personal\\UTN\\2do Cuatrimestre\\prog-lab-II\\clases\\clase_30-3\\clase_30-3.csproj",
-      "projectName": "clase_30-3",
-      "projectPath": "C:\\Users\\begni\\OneDrive\\Escritorio\\personal\\UTN\\2do Cuatrimestre\\prog-lab-II\\clases\\clase_30-3\\clase_30-3.csproj",
+      "projectUniqueName": "C:\\Users\\begni\\OneDrive\\Escritorio\\personal\\UTN\\2do Cuatrimestre\\prog-lab-II\\clases\\Biblioteca\\clase_30-3_biblioteca.csproj",
+      "projectName": "clase_30-3_biblioteca",
+      "projectPath": "C:\\Users\\begni\\OneDrive\\Escritorio\\personal\\UTN\\2do Cuatrimestre\\prog-lab-II\\clases\\Biblioteca\\clase_30-3_biblioteca.csproj",
       "packagesPath": "C:\\Users\\begni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\begni\\OneDrive\\Escritorio\\personal\\UTN\\2do Cuatrimestre\\prog-lab-II\\clases\\clase_30-3\\obj\\",
+      "outputPath": "C:\\Users\\begni\\OneDrive\\Escritorio\\personal\\UTN\\2do Cuatrimestre\\prog-lab-II\\clases\\Biblioteca\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\begni\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,11 +33,7 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {
-            "C:\\Users\\begni\\OneDrive\\Escritorio\\personal\\UTN\\2do Cuatrimestre\\prog-lab-II\\clases\\Biblioteca\\clase_30-3_biblioteca.csproj": {
-              "projectPath": "C:\\Users\\begni\\OneDrive\\Escritorio\\personal\\UTN\\2do Cuatrimestre\\prog-lab-II\\clases\\Biblioteca\\clase_30-3_biblioteca.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

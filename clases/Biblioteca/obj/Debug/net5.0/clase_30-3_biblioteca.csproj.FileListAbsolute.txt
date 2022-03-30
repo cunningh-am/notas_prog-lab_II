@@ -1,0 +1,12 @@
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\clases\Biblioteca\bin\Debug\net5.0\clase_30-3_biblioteca.deps.json
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\clases\Biblioteca\bin\Debug\net5.0\clase_30-3_biblioteca.dll
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\clases\Biblioteca\bin\Debug\net5.0\ref\clase_30-3_biblioteca.dll
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\clases\Biblioteca\bin\Debug\net5.0\clase_30-3_biblioteca.pdb
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\clases\Biblioteca\obj\Debug\net5.0\clase_30-3_biblioteca.csproj.AssemblyReference.cache
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\clases\Biblioteca\obj\Debug\net5.0\clase_30-3_biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\clases\Biblioteca\obj\Debug\net5.0\clase_30-3_biblioteca.AssemblyInfoInputs.cache
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\clases\Biblioteca\obj\Debug\net5.0\clase_30-3_biblioteca.AssemblyInfo.cs
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\clases\Biblioteca\obj\Debug\net5.0\clase_30-3_biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\clases\Biblioteca\obj\Debug\net5.0\clase_30-3_biblioteca.dll
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\clases\Biblioteca\obj\Debug\net5.0\ref\clase_30-3_biblioteca.dll
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\clases\Biblioteca\obj\Debug\net5.0\clase_30-3_biblioteca.pdb

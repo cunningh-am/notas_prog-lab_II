@@ -6,4 +6,8 @@
     <RootNamespace>clase_30_3</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Biblioteca\clase_30-3_biblioteca.csproj" />
+  </ItemGroup>
+
 </Project>

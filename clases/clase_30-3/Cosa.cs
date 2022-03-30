@@ -10,8 +10,32 @@ namespace clase_30_3
     {
         private int entero;
         private string cadena;
-        private DateTime date;
+        private DateTime fecha;
 
+        // parte 2
+        public Cosa()
+        {
+            this.entero = 10;
+            this.cadena = "Sin valor";
+            this.fecha = DateTime.Now;
+        }
+
+        public Cosa(string pC) : this()
+        {
+            this.cadena = pC;
+        }
+
+        public Cosa(string pC, int pE) : this(pC)
+        {
+            this.entero = pE;
+        }
+
+        public Cosa(string pC, int pE, DateTime pF) : this(pC, pE)
+        {
+            this.fecha = pF;
+        }
+
+        // parte 1
         public void EstablecerValor(int x)
         {
             this.entero = x;
@@ -24,7 +48,7 @@ namespace clase_30_3
 
         public void EstablecerValor(DateTime x)
         {
-            this.date = x;
+            this.fecha = x;
         }
 
         public static string Mostrar(Cosa obj)
@@ -34,7 +58,7 @@ namespace clase_30_3
 
         private string Mostrar()
         {
-            return "Entero: " + this.entero + ", Cadena: " + this.cadena + ", Fecha: " + this.date.ToShortDateString();
+            return "Entero: " + this.entero + "\nCadena: " + this.cadena + "\nFecha: " + this.fecha.ToShortDateString() + "\n";
         }
     }
 }
