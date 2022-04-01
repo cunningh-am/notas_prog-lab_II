@@ -7,14 +7,14 @@ Los metodos no pueden compartir el mismo nombre que un atributo, pero si qque ot
 
 Los metodos se pueden sobrecargar siempre y cuando cambie la firma. La firma es la lista de parametros. Que un parametro sea pasado por valor o referencia tambien influye en la firma. void Foo(int) puede coexistir con Foo(ref int) o Foo(out int). Sin embargo, Foo(ref int) y Foo(out int) no pueden coexistir.
 
-```
+```C#
 void Foo(int x) {...}
 void Foo(ref int x) {...} // Ok
 void Foo(out int x) {...} // Compile Time Error
 ```
 ### Ejemplo de sobrecarga:
 
-```
+```C#
 static int PlusMethod(int x, int y)
 {
   return x + y;
@@ -39,7 +39,7 @@ static void Main(string[] args)
 Un constructor es un metodo que permite ejecutar codigo en el momento en el que se genera una nueva instancia de una clase. Una clase puede sobrecargar constructores. De esta forma, segun los parametros ingresados al instanciar la clase, esta sabra de que forma crear el objeto.
 
 ### Ejemplo de sobrecarga de constructores
-```
+```C#
 public Book(string title, string author)
 {
     Title = title;
@@ -57,7 +57,7 @@ public Book(string title, string author, string publisher, int pubDate)
 
 Cuando un constructor llama a otro, primero se ejecuta el contructor llamado. Por lo que en el ejemplo anterior ejecutar las siguientes lineas de codigo  
 
-```
+```C#
     Title = title;	
     Author = author;
 ```
@@ -66,7 +66,7 @@ seria redundante. Lo mejor en este caso es usar **this**.
 
 ### Ejemplo usando this
 
-```
+```C#
 public class Wine
 {
     public decimal price;
