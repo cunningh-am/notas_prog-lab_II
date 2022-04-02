@@ -32,7 +32,7 @@ Es una abstraccion de un objeto. Defino comportamientos y atributos comunes a lo
  
 ## Creando una clase
 
-```
+```C#
 [modificador] class Identificador 
 {
   // miembros: atributos y metodos
@@ -67,7 +67,7 @@ Un modificador determina la accesibilidad que tendra sobre un elemento otras cla
 
 ## Ejemplo basico de una clase:
 
-```
+```C#
 public class Auto
 {
   public static int velocidad;

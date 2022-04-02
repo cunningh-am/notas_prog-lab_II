@@ -8,7 +8,7 @@ En cuanto a la administracion de la memoria, C# se apoya en el tiempo de ejecuci
 
 ### Primer programa - "Hello World!"
 
-```
+```C#
 namespace primerPrograma 
 {
     class Program
@@ -64,7 +64,7 @@ Los operadores aritmeticos son iguales que en C. En cuanto a los operadores logi
 
 ### Sentencias repetitivas
 Se agrega la sentencia **foreach:**  
-```
+```C#
 string[] nombres = new string[5];
 
 foreach (string auxNombre in nombres) {
@@ -76,7 +76,7 @@ foreach (string auxNombre in nombres) {
 
 El **punto de entrada** para los programas en C# es la funcion **Main**
 
-```
+```C#
 class HolaMundo
 {
     static void Main(string[] args) 
@@ -102,7 +102,7 @@ Formula general: `{N[,M][:Formato]}`
 * **M:** Ancho usado para mostrar el parametro, el cual se rellena de espacios. Si M es negativo, se justifica a la izquierda, y si es positivo, a la derecha.
 * **Formato:** Cadena que indica el formato extra a usar con ese parametro.  
 
-```
+```C#
 Console.WriteLine("{0,10}{1,-10}{2}", 10, 15, 23);
 // Output:
 //           1015          23
@@ -114,7 +114,7 @@ Console.WriteLine("{0,10:#,###.00}{1,10}", 10.476, 15.355);
 [Documentacion Microsoft - Formatos compuestos](https://docs.microsoft.com/es-es/dotnet/standard/base-types/composite-formatting)
 
 ### Codigo de la clase
-```
+```C#
 using System;
 
 namespace ejercicio1

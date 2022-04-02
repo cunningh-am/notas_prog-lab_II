@@ -6,7 +6,7 @@ Tambien se los denomina instancias de una clase. Para crearlos se usa la palabra
 
 ### Declarar e instanciar un objeto
 
-```
+```C#
 NombreClase nombreObjeto;
 nombreObjeto = new NombreClase();
 // NombreClase() es el constructor del objeto
@@ -38,7 +38,7 @@ es el encargado de liberar la memoria de los objetos que ya no estan siendo refe
 Son metodos utilizados para inicializar objetos en el momento de su creacion.
 Su nombre y tipo de retorno se reducen al nombre de la clase.
 
-```
+```C#
 Panda p = new Panda("Peter"); // Llamada al constructor
 
 public Class Panda
@@ -58,7 +58,7 @@ public Class Panda
 Si no definimos ningun constructor, C# creara un **constructor** sin parametros **por defecto**. El mismo sera de acceso
 publico, no tiene tipo retorno e inicializa todos los campos a cero, false o null.
 
-```
+```C#
 class MiClase 
 {
   public MiClase()
@@ -72,7 +72,7 @@ class MiClase
 
 **this** hace referencia a la instancia actual de la clase. 
 
-```
+```C#
 class Program
 {
   static void Main(string[] args)
