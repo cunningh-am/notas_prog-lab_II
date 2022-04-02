@@ -1,30 +1,30 @@
 ### Clase 2 - 23-03
 # Introduccion POO
-* Es una forma distinta de construir sofware. Otro paradigma.
-* Propone resolver problemas mediante la identificacion de objetos y la relacion entre ellos. 
-* El **Objeto** y el **Mensaje** son sus elementos fundamentales.
+
+Un **paradigma** suminista la base y modelo para resolver problemas y avanzar en el conocimiento. Un **paradigma de programacion** define la forma, metodologia o estilo con el que se resolvera un problema utilizando un lenguaje de programacion.  
+El **paradigma de la programacion orientada a objetos** propoen resolver problemas a traves de la identificacion de objetos en la vida real, sus **atributos**, su **comportamiento** y las relaciones de colaboracion entre ellos.
 
 ## Pilares
 
-### 1. Abstraccion  
+#### 1. Abstraccion  
 
-Ignorar selectivamente algo. Ignorar detalles de un elemento y enfocarme en lo importante. 
+Ignorar selectivamente algo. **Ignorar detalles de un elemento y enfocarme en lo importante**. Nos permite obtener una vista mas simple de algo complejo, definiendo distintos niveles de detalle.
  
-### 2. Encapsulamiento  
+#### 2. Encapsulamiento  
 
 Define el alcance y la visibilidad de un miembro de una clase. Se usan **modificadores de acceso...**  
 
-### 3. Herencia  
+#### 3. Herencia  
 
-Establece una relacion padre-hijo entre dos clases, de tal forma que el hijo herede las propiedades y metodos del padre.
+Establece una relacion padre-hijo entre dos clases, de tal forma que el hijo hereda las propiedades y metodos del padre.
 
-### 4. Polimorfismo  
+#### 4. Polimorfismo  
 
-La definicion del metodo reside en la clase padre. Su implementacion, reside en la clase hija.
+La definicion del metodo reside en la clase padre. Su implementacion, en la clase hija.
 
 ## Clases
 
-Es una abstraccion de un objeto. Defino comportamientos y atributos comunes a los objetos que se instanciaran de la misma.
+Una clase es una **implementacion de una abstraccion**. Describe un conjunto de objetos que comparten comportamientos, atributos, relaciones y semantica.
 
 <div align="center">
  <img width="487" height="400" src="https://www.campusmvp.es/recursos/image.axd?picture=/2019/4T/poo-clase-objetos.png"/>
@@ -68,11 +68,17 @@ Un modificador determina la accesibilidad que tendra sobre un elemento otras cla
 ## Ejemplo basico de una clase:
 
 ```C#
-public class Auto
+class Auto // por defecto internal
 {
-  public static int velocidad;
+  private float velocidad;
+  private string color;
 
-  public static void TocarBocina();
+  public void AsignaVelocidad(float velocidad) 
+  {
+    this.velocidad = velocidad;
+  }
+  
+  public void TocarBocina();
   {
     Console.WriteLine("PiPi!");
   }
