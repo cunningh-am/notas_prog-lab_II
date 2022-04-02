@@ -28,7 +28,7 @@
 
 4. **Es lo mismo escribir el operador AND como & o && en una expresion logica de C#...**
 
-- [] Verdadero
+- [ ] Verdadero
 - [x] Falso
 
 5. **C# se compila...**
@@ -44,7 +44,7 @@
 
 7. **El periodo durante el cual se esta ejecutando la aplicacion tambien se llama...**
 
-- [ ] Tiempo de dise;o
+- [ ] Tiempo de diseño
 - [ ] Tiempo de compilacion
 - [x] Tiempo de ejecucion
 - [ ] Tiempo de encendido
