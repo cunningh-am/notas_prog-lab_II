@@ -13,6 +13,12 @@ nombreObjeto = new NombreClase();
 // En una misma linea -> NombreClase nombreObjeto = new NombreClase();
 ```
 
+> Es importante que la clase no sea `static`. De lo contrario, no podremos instanciarla.   
+> Para acceder a los miembros de una clase estatica:  
+> ```C#
+>  UtilityClass.MethodA();
+>  ````
+
 ## Ciclo de vida de un objeto
 
 1. Creacion del objeto
