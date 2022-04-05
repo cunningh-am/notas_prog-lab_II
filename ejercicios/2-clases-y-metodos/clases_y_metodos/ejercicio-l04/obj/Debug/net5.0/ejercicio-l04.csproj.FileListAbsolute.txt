@@ -1,0 +1,16 @@
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\2-clases-y-metodos\clases_y_metodos\ejercicio-l04\bin\Debug\net5.0\ejercicio-l04.exe
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\2-clases-y-metodos\clases_y_metodos\ejercicio-l04\bin\Debug\net5.0\ejercicio-l04.deps.json
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\2-clases-y-metodos\clases_y_metodos\ejercicio-l04\bin\Debug\net5.0\ejercicio-l04.runtimeconfig.json
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\2-clases-y-metodos\clases_y_metodos\ejercicio-l04\bin\Debug\net5.0\ejercicio-l04.runtimeconfig.dev.json
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\2-clases-y-metodos\clases_y_metodos\ejercicio-l04\bin\Debug\net5.0\ejercicio-l04.dll
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\2-clases-y-metodos\clases_y_metodos\ejercicio-l04\bin\Debug\net5.0\ref\ejercicio-l04.dll
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\2-clases-y-metodos\clases_y_metodos\ejercicio-l04\bin\Debug\net5.0\ejercicio-l04.pdb
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\2-clases-y-metodos\clases_y_metodos\ejercicio-l04\obj\Debug\net5.0\ejercicio-l04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\2-clases-y-metodos\clases_y_metodos\ejercicio-l04\obj\Debug\net5.0\ejercicio-l04.AssemblyInfoInputs.cache
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\2-clases-y-metodos\clases_y_metodos\ejercicio-l04\obj\Debug\net5.0\ejercicio-l04.AssemblyInfo.cs
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\2-clases-y-metodos\clases_y_metodos\ejercicio-l04\obj\Debug\net5.0\ejercicio-l04.csproj.CoreCompileInputs.cache
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\2-clases-y-metodos\clases_y_metodos\ejercicio-l04\obj\Debug\net5.0\ejercicio-l04.dll
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\2-clases-y-metodos\clases_y_metodos\ejercicio-l04\obj\Debug\net5.0\ref\ejercicio-l04.dll
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\2-clases-y-metodos\clases_y_metodos\ejercicio-l04\obj\Debug\net5.0\ejercicio-l04.pdb
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\2-clases-y-metodos\clases_y_metodos\ejercicio-l04\obj\Debug\net5.0\ejercicio-l04.genruntimeconfig.cache
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\2-clases-y-metodos\clases_y_metodos\ejercicio-l04\obj\Debug\net5.0\ejercicio-l04.csproj.AssemblyReference.cache

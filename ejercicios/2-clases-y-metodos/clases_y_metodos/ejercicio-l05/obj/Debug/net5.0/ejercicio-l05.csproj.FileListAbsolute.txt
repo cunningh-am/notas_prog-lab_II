@@ -1,0 +1,16 @@
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\2-clases-y-metodos\clases_y_metodos\ejercicio-l05\bin\Debug\net5.0\ejercicio-l05.exe
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\2-clases-y-metodos\clases_y_metodos\ejercicio-l05\bin\Debug\net5.0\ejercicio-l05.deps.json
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\2-clases-y-metodos\clases_y_metodos\ejercicio-l05\bin\Debug\net5.0\ejercicio-l05.runtimeconfig.json
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\2-clases-y-metodos\clases_y_metodos\ejercicio-l05\bin\Debug\net5.0\ejercicio-l05.runtimeconfig.dev.json
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\2-clases-y-metodos\clases_y_metodos\ejercicio-l05\bin\Debug\net5.0\ejercicio-l05.dll
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\2-clases-y-metodos\clases_y_metodos\ejercicio-l05\bin\Debug\net5.0\ref\ejercicio-l05.dll
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\2-clases-y-metodos\clases_y_metodos\ejercicio-l05\bin\Debug\net5.0\ejercicio-l05.pdb
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\2-clases-y-metodos\clases_y_metodos\ejercicio-l05\obj\Debug\net5.0\ejercicio-l05.csproj.AssemblyReference.cache
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\2-clases-y-metodos\clases_y_metodos\ejercicio-l05\obj\Debug\net5.0\ejercicio-l05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\2-clases-y-metodos\clases_y_metodos\ejercicio-l05\obj\Debug\net5.0\ejercicio-l05.AssemblyInfoInputs.cache
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\2-clases-y-metodos\clases_y_metodos\ejercicio-l05\obj\Debug\net5.0\ejercicio-l05.AssemblyInfo.cs
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\2-clases-y-metodos\clases_y_metodos\ejercicio-l05\obj\Debug\net5.0\ejercicio-l05.csproj.CoreCompileInputs.cache
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\2-clases-y-metodos\clases_y_metodos\ejercicio-l05\obj\Debug\net5.0\ejercicio-l05.dll
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\2-clases-y-metodos\clases_y_metodos\ejercicio-l05\obj\Debug\net5.0\ref\ejercicio-l05.dll
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\2-clases-y-metodos\clases_y_metodos\ejercicio-l05\obj\Debug\net5.0\ejercicio-l05.pdb
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\2-clases-y-metodos\clases_y_metodos\ejercicio-l05\obj\Debug\net5.0\ejercicio-l05.genruntimeconfig.cache
