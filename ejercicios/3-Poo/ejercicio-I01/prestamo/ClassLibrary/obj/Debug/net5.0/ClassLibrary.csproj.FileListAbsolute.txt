@@ -1,0 +1,12 @@
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\3-Poo\ejercicio-I01\prestamo\ClassLibrary\bin\Debug\net5.0\ClassLibrary.deps.json
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\3-Poo\ejercicio-I01\prestamo\ClassLibrary\bin\Debug\net5.0\ClassLibrary.dll
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\3-Poo\ejercicio-I01\prestamo\ClassLibrary\bin\Debug\net5.0\ref\ClassLibrary.dll
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\3-Poo\ejercicio-I01\prestamo\ClassLibrary\bin\Debug\net5.0\ClassLibrary.pdb
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\3-Poo\ejercicio-I01\prestamo\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\3-Poo\ejercicio-I01\prestamo\ClassLibrary\obj\Debug\net5.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\3-Poo\ejercicio-I01\prestamo\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\3-Poo\ejercicio-I01\prestamo\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\3-Poo\ejercicio-I01\prestamo\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\3-Poo\ejercicio-I01\prestamo\ClassLibrary\obj\Debug\net5.0\ClassLibrary.dll
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\3-Poo\ejercicio-I01\prestamo\ClassLibrary\obj\Debug\net5.0\ref\ClassLibrary.dll
+C:\Users\begni\OneDrive\Escritorio\personal\UTN\2do Cuatrimestre\prog-lab-II\ejercicios\3-Poo\ejercicio-I01\prestamo\ClassLibrary\obj\Debug\net5.0\ClassLibrary.pdb
